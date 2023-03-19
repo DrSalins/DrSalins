@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drsalins" alt="drsalins" /></a> </p>
 
-- 🔭 I’m currently working on **Spotify API**
+- 🔭 I’m currently working on **a project utilizing Spotify's API**
 
 - 🌱 I’m currently learning **NodeJS, React, NextJS, Oracle SQL, Python, Java**
 
