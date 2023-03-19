@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddarth Salins Mudaliar</h1>
-<h3 align="center">A passionate junior web developer from Hong Kong!</h3>
+<h3 align="center">A aspiring & passionate front-end web developer from Hong Kong!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drsalins&label=Profile%20views&color=0e75b6&style=flat" alt="drsalins" /> </p>
 
