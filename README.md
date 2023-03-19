@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **siddarthmudaliar93@gmail.com**
 
-- ⚡ Fun fact **I think i am funny,loud and i can make my tounge into a flower! &#127800;**
+- ⚡ Fun fact **I think i am funny, loud and i can make my tounge into a flower! &#127800;**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
