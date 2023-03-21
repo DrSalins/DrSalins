@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a project utilizing Spotify's API**
 
-- 🌱 I’m currently learning **NodeJS, React, NextJS, Oracle SQL, Python, Java**
+- 🌱 I’m currently learning **NodeJS, React, NextJS, Oracle SQL, Python, Kotlin**
 
 - 💬 Ask me about **HTML, CSS, Boostrap, Javascript, SQL**
 
